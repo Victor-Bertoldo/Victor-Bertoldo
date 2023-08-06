@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I´m Victor Bertoldo 👋
 
-<!--
-**Victor-Bertoldo/Victor-Bertoldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- About
+I´m a web developer, and, I´m studying web development at [Rocketseat].(https://rocketseat.com.br/)
 
-Here are some ideas to get you started:
+### Current stack 
+- ⚡️ Main language: `Javascript`
+- ⚙️ Backend: `Node.js` and `Python`
+- 🎉 Frontend: `React.js`, `Javascript`, `HTML`, `CSS`, 
+- 🎨 Layout Design: `Figma`
+- 🗃️ Version code control: `Git & Github`
+- 🛠 Tools: `VsCode`, `Markdown`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+- 📁 Email: vitorbbp02@gmail.com
+- 👤 Linkedin: https://www.linkedin.com/in/victor-bertoldo-375b16233/
