@@ -1,6 +1,6 @@
 ### Hi there, I´m Victor Bertoldo 👋
 
-<!-- About
+### About
 I´m a web developer, and, I´m studying web development at [Rocketseat].(https://rocketseat.com.br/)
 
 ### Current stack 
